@@ -1,0 +1,4 @@
+你把open_sort关了，ipv6就出来了
+把这个False改成True就可以扫v6
+关了不会测速过滤分辨率排序，自己权衡
+https://github.com/plplpopp/IPTV
